@@ -60,11 +60,11 @@ h3 {
 
 .programming-image{
   float: left;
-  width: 25%;
-  margin: auto 30px 30px auto;
+  width: 35%;
+  margin-right: 30px;
 }
 .chille-image {
   float: right;
-  width: 25%;
-  margin: auto auto 30px 30px;
+  width: 35%;
+  margin-left: 30px;
 }
