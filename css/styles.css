@@ -57,3 +57,14 @@ h3 {
   text-align: left;
   line-height: 2;
 }
+
+.programming-image{
+  float: left;
+  width: 25%;
+  margin: auto 30px 30px auto;
+}
+.chille-image {
+  float: right;
+  width: 25%;
+  margin: auto auto 30px 30px;
+}
